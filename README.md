@@ -4,8 +4,8 @@
 
 ## 2020.1.6
 
-- [ ] 实现图片的懒加载
-- [ ] 总结 client-offset-scroll,getBoundingClientRect 笔记到自己网站
-
-- [ ] 总结 Float 笔记到自己网站
-- [ ] 总结 BFC 笔记到自己网站
+- [x] 实现图片的懒加载
+- [x] 总结 client-offset-scroll,getBoundingClientRect 笔记到自己网站
+- [ ] 总结 Float 笔记到自己网站（先阅读css世界，未来写）
+- [ ] 总结 BFC 笔记到自己网站（先阅读css世界，未来写）
+- [x] 给自己网站添加图标
