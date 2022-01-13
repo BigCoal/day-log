@@ -4,7 +4,7 @@
 ## 2020.1.10
 - [ ] 读《css世界》内联元盒和流
 - [ ] 了解monorepo管理模式
-- [ ] js-mark插件添加可插入节点，并且不影响后续标注api
+- [x] js-mark插件添加可插入节点，并且不影响后续标注api(https://github.com/BigCoal/js-mark)
 
 ## 2020.1.10
 
