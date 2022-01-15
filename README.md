@@ -1,8 +1,18 @@
 # study-every-day
 
 记录每天的学习,生活，进步点滴
-## 2020.1.10
-- [ ] 读《css世界》内联元盒和流
+
+## 2020.1.15
+
+- [ ] 读《css世界》流的破坏与保护
+
+## 2020.1.13
+
+- [x] 重构js-mark插件，提升标记速度，添加虚拟文本节点VText
+
+## 2020.1.12
+
+- [x] 读《css世界》内联元盒和流
 - [ ] 了解monorepo管理模式
 - [x] js-mark插件添加标注过程中或略特殊class的api(https://github.com/BigCoal/js-mark)
 
