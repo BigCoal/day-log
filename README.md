@@ -1,6 +1,14 @@
 # study-every-day
 
 记录每天的学习,生活，进步点滴
+## 2020.1.28
+
+- [x] 总结《css世界》line-height属性和vertical-align属性
+
+## 2020.1.27
+
+- [x] 总结《css世界》字母x和基线
+
 ## 2020.1.26
 
 - [x] 总结《css世界》盒尺寸的四大家族-border
