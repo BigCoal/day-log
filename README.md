@@ -1,6 +1,10 @@
 # study-every-day
 
 记录每天的学习,生活，进步点滴
+## 2020.1.31
+
+- [ ] 总结《css世界》absolute和包含块
+
 ## 2020.1.28
 
 - [x] 总结《css世界》line-height属性和vertical-align属性
