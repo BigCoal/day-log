@@ -1,10 +1,30 @@
 # study-every-day
 
 记录每天的学习,生活，进步点滴
+## 2020.3.06
+
+- [ ] 读《图解HTTP》简单的http协议
+- [ ] 读《图解HTTP》HTTP报文内的HTTP信息
+- [ ] 读《图解HTTP》返回结果的HTTP状态码
+- [ ] 读《图解HTTP》与HTTP协作的Web服务器
+
+## 2020.3.05
+
+- [ ] 读《Javascript设计模式与开发实践》面向对象的javascript
+- [ ] 读《Javascript设计模式与开发实践》this,call和apply
+- [ ] 读《Javascript设计模式与开发实践》闭包和高阶函数
+- [ ] 读《图解HTTP》了解web及网络基础
+
 ## 2020.3.04
 
-- [ ] 读《Javascript设计模式与开发实践》状态模式
-- [ ] 读《Javascript设计模式与开发实践》适配器模式
+- [x] 读《Javascript设计模式与开发实践》状态模式
+- [x] 读《Javascript设计模式与开发实践》适配器模式
+- [x] 读《Javascript设计模式与开发实践》外观模式
+- [x] 读《Javascript设计模式与开发实践》单一职责原则
+- [x] 读《Javascript设计模式与开发实践》最少知识原则
+- [x] 读《Javascript设计模式与开发实践》开放封闭原则
+- [x] 读《Javascript设计模式与开发实践》接口和面向接口编程
+- [x] 读《Javascript设计模式与开发实践》代码重构
 
 ## 2020.3.03
 
