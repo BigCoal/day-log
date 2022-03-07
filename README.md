@@ -1,19 +1,25 @@
 # study-every-day
 
 记录每天的学习,生活，进步点滴
+## 2020.3.08
+
+- [ ] 整理js的常见的dom操作
+- [ ] 编写《tailwindcss官网》核心概念demo
+- [ ] 读《图解HTTP》简单的 HTTP 协议
+## 2020.3.07
+
+- [x] 整理js的垃圾回收机制
+- [x] 读《图解HTTP》了解web及网络基础
+- [x] 看《tailwindcss官网》入门，配置基本框架
+
 ## 2020.3.06
 
-- [ ] 读《图解HTTP》简单的http协议
-- [ ] 读《图解HTTP》HTTP报文内的HTTP信息
-- [ ] 读《图解HTTP》返回结果的HTTP状态码
-- [ ] 读《图解HTTP》与HTTP协作的Web服务器
+- [x] 读《Javascript设计模式与开发实践》闭包和高阶函数
 
 ## 2020.3.05
 
-- [ ] 读《Javascript设计模式与开发实践》面向对象的javascript
-- [ ] 读《Javascript设计模式与开发实践》this,call和apply
-- [ ] 读《Javascript设计模式与开发实践》闭包和高阶函数
-- [ ] 读《图解HTTP》了解web及网络基础
+- [x] 读《Javascript设计模式与开发实践》面向对象的javascript
+- [x] 读《Javascript设计模式与开发实践》this,call和apply
 
 ## 2020.3.04
 
